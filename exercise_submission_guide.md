@@ -20,7 +20,7 @@ Panduan ini membantu kamu (kadet) langkah demi langkah, mulai dari membuat akun 
 ## 🔧 2. Fork Repositori Project-Link Exercises
 
 ### Langkah:
-1. Buka repositori utama komunitas: [https://github.com/project-link/project-link-exercises](https://github.com/project-link/project-link-exercises)
+1. Buka repositori utama komunitas: [https://github.com/LEX-DEV141/PROJECT_LINK-EXERCISE.git](https://github.com/LEX-DEV141/PROJECT_LINK-EXERCISE.git)
 2. Klik tombol `Fork` di kanan atas → pilih akun GitHub kamu
 
 > Ini akan membuat salinan repositori di akun kamu, tempat kamu bisa bekerja bebas.
