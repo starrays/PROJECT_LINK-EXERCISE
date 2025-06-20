@@ -11,12 +11,6 @@ Selamat datang di level Newcomer untuk jalur Frontend Development! Latihan-latih
 
 ## 🧪 Daftar Latihan
 
-| No. | Judul Latihan | Fokus Utama |
-| --- | ------------- | ----------- |
-| 01  |               |             |
-
-|   |
-| - |
 
 | [HTML Introduction](./exercise-01-html-intro/) | Struktur halaman dan elemen dasar |                                |
 | ---------------------------------------------- | --------------------------------- | ------------------------------ |
