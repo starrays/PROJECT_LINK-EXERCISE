@@ -13,13 +13,7 @@ Selamat datang di level Newcomer untuk jalur Frontend Development! Latihan-latih
 
 | No. | Judul Latihan | Fokus Utama |
 | --- | ------------- | ----------- |
-| 01  |               |             |
-
-|   |
-| - |
-
-| [HTML Introduction](./exercise-01-html-intro/) | Struktur halaman dan elemen dasar |                                |
-| ---------------------------------------------- | --------------------------------- | ------------------------------ |
+| 01     |HTML Introduction               | Struktur halaman dan elemen dasar |
 | 02                                             | CSS Basic Layout                  | Styling, warna, layout dasar   |
 | 03                                             | JS Basic Interaction              | Event, DOM, interaksi tombol   |
 | 04                                             | Mini Landing Page                 | Proyek kecil gabungan HTML+CSS |
@@ -35,6 +29,7 @@ frontend/
     ├── exercise-02-css-basic-layout/
     ├── exercise-03-js-interaction-basics/
     ├── exercise-04-mini-landing-page/
+    ├── fundametal.md
     └── README.md
 ```
 
@@ -45,9 +40,7 @@ frontend/
 3. **Simpan hasil** dalam GitHub folder pribadi kamu
 4. **Ajukan untuk review** ke mentor atau teman komunitas
 
-## 🔁 Checklist Kemajuan
 
--
 
 ## 🎓 Setelah Lulus Level Ini...
 
