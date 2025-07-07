@@ -14,6 +14,7 @@ Tidak seperti `exercises/` yang berisi tugas praktik, folder `resources/` diranc
 | `learning-paths/`      | Jalur belajar per role (frontend, backend, design, dsb.)      |
 | `career-guidance/`     | Tips karier, role IT, portofolio, wawancara, kerja remote      |
 | `tools-and-setup/`     | Panduan alat: VS Code, Git, DevTools, CLI, Figma, dll         |
+| `learn-something-fundamental/` | Ensiklopedia materi pembelajaran berbagai topik teknologi, dari fundamental hingga advanced |
 | `accessibility/`       | Prinsip a11y, praktik aksesibilitas web & desain inklusif     |
 
 > 📌 Setiap folder berisi file markdown modular yang bisa dibaca terpisah maupun terintegrasi ke Notion, GitHub Pages, atau PDF handbook komunitas.
@@ -41,6 +42,7 @@ Jika kamu pemula mutlak, baca dulu:
 - [`beginners-friendly/dev-general-knowledge/what-is-programming.md`](./beginners-friendly/dev-general-knowledge/what-is-programming.md)
 - [`beginners-friendly/tool-setup-guide/vscode.md`](./beginners-friendly/tool-setup-guide/vscode.md)
 - [`beginners-friendly/misc/mindset-newbie.md`](./beginners-friendly/misc/mindset-newbie.md)
+- [`learn-something-fundamental/`](./learn-something-fundamental/readme.md) — ensiklopedia materi pembelajaran berbagai topik teknologi, dari fundamental hingga advanced
 
 > Setelah itu, kamu bisa lanjutkan ke exercise sesuai track-mu.
 

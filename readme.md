@@ -210,10 +210,10 @@ PROJECT_LINK-EXERCISES/
 ├── resources/
 │   ├── learning-paths/
 │   ├── career-guidance/
-│   ├── tools-and-setup/
-│   ├── beginner-friendly/
-│   └── accessibility/
-│
+│   ├── tools-and-setup/                
+│   ├── beginner-friendly/              
+│   ├── accessibility/                  
+│   └── learn-something-fundamental/    
 └── templates/
     ├── exercise-template.md
     ├── submission-template.md
