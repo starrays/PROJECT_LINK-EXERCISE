@@ -1,0 +1,40 @@
+body {
+    background-color: pink;
+    font-family: sans-serif;
+
+}
+h1 {
+    text-align: center;
+    color:rgb(114, 187, 235)
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: justify;
+    size: 16px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.pictpict {
+    text-align: justify;
+    size: 16px;
+    max-width: 600px;
+    margin: auto;
+}
+.pictured {
+    text-align: justify;
+    size: 16px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.newlink {
+  display: flex;
+  gap: 20px;
+}
+.dark {
+    background-color: #222;
+    color: #eee;
+}
